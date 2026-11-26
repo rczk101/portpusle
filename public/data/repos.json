@@ -1,95 +1,101 @@
 {
- "updated": "2026-11-26T03:35",
+ "updated": "2026-11-26T16:55",
  "repos": {
   "DexNom/VIctory": {
    "status": "active",
-   "stars": 981,
+   "stars": 1149,
    "pushed": "2026-11-26T01:12:12Z"
   },
   "Belobug/VIctory-Belobug-AMD": {
    "status": "active",
-   "stars": 1664,
+   "stars": 1752,
    "pushed": "2026-11-26T00:57:17Z"
   }
  },
  "candidates": [
   {
    "repo": "4lwayz/portwatch-vi",
-   "stars": 4321,
-   "pushed": "2026-11-26T01:33:23Z",
+   "stars": 5253,
+   "pushed": "2026-11-26T16:20:34Z",
    "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily."
   },
   {
    "repo": "ubiquitarianism/leonida",
-   "stars": 2357,
-   "pushed": "2026-11-26T03:18:12Z",
+   "stars": 2469,
+   "pushed": "2026-11-26T16:41:06Z",
    "desc": "A continuation of Leonida, the Xbox > PC port interface for GTA VI"
   },
   {
-   "repo": "Ahmet-Dedeler/awesome-gta6-reverse-engineering",
-   "stars": 748,
-   "pushed": "2026-11-26T00:58:17Z",
-   "desc": "Curated list of open-source GTA VI (GTA 6) reverse engineering tools, RAGE 9 / RPF9 archive explorers, TTPF texture & ADAT/AWC audio decoder"
+   "repo": "DoubleGhosty/cool_fox",
+   "stars": 537,
+   "pushed": "2026-11-26T16:34:55Z",
+   "desc": "cool_fox: Leading CGBJ runtime continuation for GTA VI PC - Pareto residency, Wine/Vulkan fixes, FPS unlock, Port 5 CBV"
   },
   {
    "repo": "ProjectLeonidaL/leonida",
-   "stars": 455,
-   "pushed": "2026-11-26T00:15:45Z",
+   "stars": 492,
+   "pushed": "2026-11-26T16:49:28Z",
    "desc": "Continuation of Project Leonida, aiming to bring GTA VI from Xbox to PC through static recompilation."
   },
   {
    "repo": "vuyp/gta6-pc-race",
-   "stars": 234,
-   "pushed": "2026-11-26T03:19:22Z",
+   "stars": 303,
+   "pushed": "2026-11-26T16:19:18Z",
    "desc": "Automatically maintained tracking site for PC ports of the GTA VI Xbox Build. This repository is managed autonomously by Claude Fable 5.2."
   },
   {
    "repo": "ThatRecompDev/five-star-recomp",
-   "stars": 220,
-   "pushed": "2026-11-26T03:25:14Z",
+   "stars": 222,
+   "pushed": "2026-11-26T16:50:48Z",
    "desc": "Pre-work for a PC port of the Xbox Series GTA VI release: formats, shader translation and an offline console runtime"
   },
   {
-   "repo": "RatioClimberRod/Leonida",
-   "stars": 102,
-   "pushed": "2026-11-25T19:51:26Z",
-   "desc": "Open-source GTA VI PC recompilation project using native x86-64 execution and Vulkan."
+   "repo": "yassine03jb-rgb/gta-6-pc-version-port-savelan",
+   "stars": 145,
+   "pushed": "2026-11-26T11:55:39Z",
+   "desc": "PC port of the Savelan build, adapting its core systems for desktop play."
   },
   {
-   "repo": "fqwfqwfqfa/GTA-6-PC-Version-Port-Reverse-Engineering-ai-emulator-gta6",
-   "stars": 40,
-   "pushed": "2026-11-25T21:12:57Z",
-   "desc": "GTA 6 PC version port  reverse engineering | gta6 gta 6 gta VI"
+   "repo": "LakshanSivakumar/Native-Victory-macOS",
+   "stars": 80,
+   "pushed": "2026-11-26T16:38:23Z",
+   "desc": "Native macOS port of the VIctory Xbox Series emulator for GTA VI: no Wine, game code in-process, GPU straight to Metal. Bring your own game "
+  },
+  {
+   "repo": "pixl27/ProjectReCity",
+   "stars": 67,
+   "pushed": "2026-11-26T15:14:54Z",
+   "desc": "Project ReCity: GTA VI (Xbox Series) static recompilation for Windows, built on your PC from your own copy. No game files included."
+  },
+  {
+   "repo": "ifkbagggvfck/gta-6-gta6",
+   "stars": 39,
+   "pushed": "2026-11-26T15:50:49Z",
+   "desc": "GTA 6 PC Release Port Via Reverse Engineering"
+  },
+  {
+   "repo": "Guernica4u/GTA6-PC-Port-Archive",
+   "stars": 29,
+   "pushed": "2026-11-26T16:46:53Z",
+   "desc": "Archive of Leonida, xcl and VIctory (GTA VI on PC projects), saved 2026-11-23"
   },
   {
    "repo": "IAmNotSiob/leonida-ce",
    "stars": 26,
-   "pushed": "2026-11-26T03:27:23Z",
+   "pushed": "2026-11-26T16:47:17Z",
    "desc": "Leonida CE: community edition of Leonida, GTA VI (Xbox Series) static recompilation, built on your PC from your own copy. GPLv3."
   },
   {
-   "repo": "LukasBrown151/GTA-6-PC-Version-Port-Emulator",
-   "stars": 26,
-   "pushed": "2026-11-26T03:34:04Z",
-   "desc": "GTA 6 PC Version Port — GTA 6 PC AI Emulator & Reverse Engineering"
+   "repo": "YunxiRamito/GTA6PC-PortTracker",
+   "stars": 4,
+   "pushed": "2026-11-26T12:28:19Z",
+   "desc": ""
   },
   {
-   "repo": "Guernica4u/GTA6-PC-Port-Archive",
-   "stars": 17,
-   "pushed": "2026-11-26T03:32:47Z",
-   "desc": "Archive of Leonida, xcl and VIctory (GTA VI on PC projects), saved 2026-11-23"
-  },
-  {
-   "repo": "tomasz5646/gta-6-turkce-yama-portable-pc-couchsubs",
-   "stars": 15,
-   "pushed": "2026-11-26T00:57:23Z",
-   "desc": "GTA 6 Turkce Yama Portable PC Couchsubs [2026] — Standalone Windows 10/11 (x64) Release, Setup & Config"
-  },
-  {
-   "repo": "shadshuvo/GanduTheftAutoVi",
-   "stars": 7,
-   "pushed": "2026-11-25T19:22:44Z",
-   "desc": "GanduTheftAutoVi is a recompilation of Both victory and XCL for Running GTA 6 natively on PC  from your own file"
+   "repo": "XinYulian/xin-leonida",
+   "stars": 3,
+   "pushed": "2026-11-26T15:26:39Z",
+   "desc": "GTA VI on PC — a clean-room static recompilation built from your own copy. Developed by XIN."
   }
  ]
 }
