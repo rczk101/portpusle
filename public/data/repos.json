@@ -1,89 +1,95 @@
 {
- "updated": "2026-11-27T01:44",
+ "updated": "2026-11-27T12:22",
  "repos": {
   "DexNom/VIctory": {
    "status": "active",
-   "stars": 1293,
+   "stars": 1345,
    "pushed": "2026-11-26T23:11:14Z"
   },
   "Belobug/VIctory-Belobug-AMD": {
    "status": "active",
-   "stars": 3033,
+   "stars": 3861,
    "pushed": "2026-11-26T22:30:21Z"
   }
  },
  "candidates": [
   {
    "repo": "4lwayz/portwatch-vi",
-   "stars": 5857,
-   "pushed": "2026-11-27T01:36:23Z",
+   "stars": 6240,
+   "pushed": "2026-11-27T10:21:50Z",
    "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily."
   },
   {
-   "repo": "Ahmet-Dedeler/awesome-gta6-reverse-engineering",
-   "stars": 795,
-   "pushed": "2026-11-26T22:26:05Z",
-   "desc": "Curated list of open-source GTA VI (GTA 6) reverse engineering tools, RAGE 9 / RPF9 archive explorers, TTPF texture & ADAT/AWC audio decoder"
+   "repo": "ubiquitarianism/leonida",
+   "stars": 2584,
+   "pushed": "2026-11-27T12:10:10Z",
+   "desc": "A continuation of Leonida, the Xbox > PC port interface for GTA VI"
   },
   {
    "repo": "DoubleGhosty/cool_fox",
-   "stars": 690,
-   "pushed": "2026-11-27T00:10:18Z",
+   "stars": 795,
+   "pushed": "2026-11-27T11:03:32Z",
    "desc": "cool_fox: Leading CGBJ runtime continuation for GTA VI PC - Pareto residency, Wine/Vulkan fixes, FPS unlock, Port 5 CBV"
   },
   {
    "repo": "ProjectLeonidaL/leonida",
-   "stars": 511,
-   "pushed": "2026-11-26T23:38:13Z",
+   "stars": 530,
+   "pushed": "2026-11-27T12:18:13Z",
    "desc": "Continuation of Project Leonida, aiming to bring GTA VI from Xbox to PC through static recompilation."
   },
   {
    "repo": "vuyp/gta6-pc-race",
-   "stars": 338,
-   "pushed": "2026-11-27T01:15:19Z",
+   "stars": 364,
+   "pushed": "2026-11-27T11:56:58Z",
    "desc": "Automatically maintained tracking site for PC ports of the GTA VI Xbox Build. This repository is managed autonomously by Claude Fable 5.2."
   },
   {
    "repo": "ThatRecompDev/five-star-recomp",
-   "stars": 227,
-   "pushed": "2026-11-27T00:45:03Z",
+   "stars": 232,
+   "pushed": "2026-11-27T11:39:43Z",
    "desc": "Pre-work for a PC port of the Xbox Series GTA VI release: formats, shader translation and an offline console runtime"
   },
   {
-   "repo": "yassine03jb-rgb/gta-6-pc-version-port-savelan",
-   "stars": 145,
-   "pushed": "2026-11-26T20:59:09Z",
-   "desc": "PC port of the Savelan build, adapting its core systems for desktop play."
-  },
-  {
    "repo": "LakshanSivakumar/Native-Victory-macOS",
-   "stars": 100,
-   "pushed": "2026-11-27T01:41:15Z",
+   "stars": 112,
+   "pushed": "2026-11-27T12:22:04Z",
    "desc": "Native macOS port of the VIctory Xbox Series emulator for GTA VI: no Wine, game code in-process, GPU straight to Metal. Bring your own game "
   },
   {
    "repo": "Guernica4u/GTA6-PC-Port-Archive",
-   "stars": 32,
-   "pushed": "2026-11-27T01:44:24Z",
+   "stars": 36,
+   "pushed": "2026-11-27T12:17:12Z",
    "desc": "Archive of Leonida, xcl and VIctory (GTA VI on PC projects), saved 2026-11-23"
   },
   {
-   "repo": "AutocratAbide/gta-6-pc-release-port-v2",
-   "stars": 17,
-   "pushed": "2026-11-26T22:28:11Z",
-   "desc": "GTA 6 PC Release Port Via Reverse Engineering For PC 2026 — Standalone Windows 10/11 (x64) Release, Setup & Config"
+   "repo": "IAmNotSiob/leonida-ce",
+   "stars": 28,
+   "pushed": "2026-11-27T07:47:59Z",
+   "desc": "Leonida CE: community edition of Leonida, GTA VI (Xbox Series) static recompilation, built on your PC from your own copy. GPLv3."
   },
   {
    "repo": "shadshuvo/GanduTheftAutoVi",
    "stars": 8,
-   "pushed": "2026-11-26T19:09:14Z",
+   "pushed": "2026-11-27T06:10:56Z",
    "desc": "GanduTheftAutoVi is a recompilation of Both victory and XCL for Running GTA 6 natively on PC  from your own file"
   },
   {
-   "repo": "XinYulian/xin-leonida",
-   "stars": 4,
-   "pushed": "2026-11-27T01:37:01Z",
-   "desc": "(Working ) GTA VI on PC — a clean-room static recompilation built from your own copy. Developed by XIN."
+   "repo": "Click2x/BananaTheftAuto",
+   "stars": 2,
+   "pushed": "2026-11-27T12:22:26Z",
+   "desc": "Banana Theft Auto: a guided Windows menu built on Leonida (GTA VI recompilation). Full credit to Leonida's authors."
+  },
+  {
+   "repo": "3bdalra7manm2o-hub/leonida-gta-vi-recompilation",
+   "stars": 2,
+   "pushed": "2026-11-27T11:53:09Z",
+   "desc": "Leonida Recompilation: Build the Ultimate GTA VI Experience"
+  },
+  {
+   "repo": "DKTTT/gta6-pc-launcher",
+   "stars": 2,
+   "pushed": "2026-11-27T08:09:05Z",
+   "desc": "GTA VI PC port auto launcher: hardware detection, build management, prewarm, leaderboard-based recommendation (WIP)"
   }
  ]
 }
