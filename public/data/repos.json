@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-28T07:50",
+ "updated": "2026-11-28T17:33",
  "repos": {
   "DexNom/VIctory": {
    "status": "active",
-   "stars": 1497,
+   "stars": 1557,
    "pushed": "2026-11-27T19:44:12Z"
   },
   "Belobug/VIctory-Belobug-AMD": {
@@ -15,75 +15,75 @@
  "candidates": [
   {
    "repo": "4lwayz/portwatch-vi",
-   "stars": 6900,
-   "pushed": "2026-11-28T07:31:34Z",
+   "stars": 7167,
+   "pushed": "2026-11-28T16:30:34Z",
    "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily."
   },
   {
    "repo": "ProjectLeonida/mandy",
-   "stars": 3021,
-   "pushed": "2026-11-28T07:48:51Z",
+   "stars": 3190,
+   "pushed": "2026-11-28T15:18:06Z",
    "desc": "A continuation of Leonida, the Xbox > PC port interface for GTA VI"
   },
   {
-   "repo": "vuyp/gta6-pc-race",
-   "stars": 391,
-   "pushed": "2026-11-28T00:52:54Z",
-   "desc": "Automatically maintained tracking site for PC ports of the GTA VI Xbox Build. This repository is managed autonomously by Claude Fable 5.2."
+   "repo": "ProjectLeonidaL/leonida",
+   "stars": 573,
+   "pushed": "2026-11-28T15:56:14Z",
+   "desc": "Continuation of Project Leonida, aiming to bring GTA VI from Xbox to PC through static recompilation."
   },
   {
    "repo": "ThatRecompDev/five-star-recomp",
    "stars": 234,
-   "pushed": "2026-11-28T06:20:35Z",
+   "pushed": "2026-11-28T17:31:42Z",
    "desc": "Pre-work for a PC port of the Xbox Series GTA VI release: formats, shader translation and an offline console runtime"
   },
   {
    "repo": "3bdalra7manm2o-hub/leonida-gta-vi-recompilation",
-   "stars": 143,
-   "pushed": "2026-11-28T07:02:19Z",
+   "stars": 212,
+   "pushed": "2026-11-28T16:43:40Z",
    "desc": "Leonida Recompilation: Build the Ultimate GTA VI Experience"
   },
   {
    "repo": "aashiqkhan9568-ctrl/project-leonida-gta-vi-port",
-   "stars": 142,
-   "pushed": "2026-11-28T01:22:36Z",
+   "stars": 211,
+   "pushed": "2026-11-28T09:59:46Z",
    "desc": "Project Leonida GTA VI Port: Static Recompilation Brings Vice City to PC"
   },
   {
-   "repo": "LakshanSivakumar/Native-Victory-macOS",
-   "stars": 133,
-   "pushed": "2026-11-28T06:30:26Z",
-   "desc": "Native macOS port of the VIctory Xbox Series emulator for GTA VI: no Wine, game code in-process, GPU straight to Metal. Bring your own game "
-  },
-  {
    "repo": "ToLIManl/VIctory-Hydra",
-   "stars": 63,
-   "pushed": "2026-11-28T04:49:47Z",
+   "stars": 77,
+   "pushed": "2026-11-28T13:36:04Z",
    "desc": "Unified multi-fork VIctory D3D12 runtime & shader recompiler for GTA 6 Xbox Series recompilation — combining cool_fox, Neptune_VI, fxceless,"
   },
   {
    "repo": "Guernica4u/GTA6-PC-Port-Archive",
-   "stars": 62,
-   "pushed": "2026-11-28T07:49:41Z",
+   "stars": 66,
+   "pushed": "2026-11-28T17:32:45Z",
    "desc": "Archive of Leonida, xcl and VIctory (GTA VI on PC projects), saved 2026-11-23"
   },
   {
+   "repo": "DestroyerShipper/GTA6-Leonida-Windows-Port",
+   "stars": 43,
+   "pushed": "2026-11-28T11:20:40Z",
+   "desc": "GTA 6 Leonida Windows Port project centered on Grand Theft Auto VI PC compatibility research, Windows configuration, graphics, performance, "
+  },
+  {
+   "repo": "GlazeCustodian/GTA6-PC-Port",
+   "stars": 43,
+   "pushed": "2026-11-28T11:19:46Z",
+   "desc": "GTA 6 Vice City PC Port project for Windows, addressing Grand Theft Auto VI desktop port research, PC graphics, performance optimization, in"
+  },
+  {
    "repo": "kylepelham/El1xr",
-   "stars": 20,
-   "pushed": "2026-11-28T07:46:16Z",
+   "stars": 27,
+   "pushed": "2026-11-28T17:21:13Z",
    "desc": "El1xr: GTA VI (Xbox Series 1.0.2.1) running on a Windows PC. 4K, ~25 fps on an RTX 5090. Fork of AnyXboxX, built on VIctory. GPL-3.0."
   },
   {
-   "repo": "shadshuvo/GanduTheftAutoVi",
-   "stars": 8,
-   "pushed": "2026-11-28T02:24:51Z",
-   "desc": "GanduTheftAutoVi is a recompilation of Both victory and XCL for Running GTA 6 natively on PC  from your own file"
-  },
-  {
-   "repo": "Click2x/BananaTheftAuto",
+   "repo": "delysidemanYT1/viceport",
    "stars": 2,
-   "pushed": "2026-11-28T03:34:25Z",
-   "desc": "Banana Theft Auto: a guided Windows menu built on Leonida (GTA VI recompilation). Full credit to Leonida's authors."
+   "pushed": "2026-11-28T15:14:23Z",
+   "desc": "VicePort is a Windows launcher and manager for GTA VI community ports."
   }
  ]
 }
